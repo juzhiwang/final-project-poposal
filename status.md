@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Juzhi Wang
 
 #### Your section leader's name
 
-TODO
+myself
 
 #### Project title
 
-TODO
+Elden ring disocrd bot
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+We have create a discord bot, and given it some basic ability. 
 
 #### What have you not done for your project yet?
 
-TODO
+Make a perfect way to do what I want to be done: a full dict for elden ring items
 
 #### What problems, if any, have you encountered?
 
-TODO
+I was thought about to access to the game file and read the lines in there, But I havent get a way of doing that.  May be I need anothor way or some help from others. 
